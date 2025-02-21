@@ -1,71 +1,66 @@
-## ABOUT ME
 
-name : ```Nayan Developer```</br>
-age : ```20```</br>
-link : [facebook](https://www.facebook.com/profile.php?id=100000959749712).</br>
+<!--
+**MOHAMMAD-NAYAN/MOHAMMAD-NAYAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## CREDITS
+Here are some ideas to get you started:
 
-original file : [BotPack](https://replit.com/@YanMaglinte/BotPack?v=1) by ```YanMaglinte```</br>
-modified : [NAYAN](https://replit.com/@xaikonayan/NAYAN-BOT?v=1) by ```Nayan Developer```
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-## CONFIG AND CUSTOM
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+Mr-NAYAN+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+Mr.NAYAN+🥀;Thanks+My+All+Friend+🤙+🥰)](https://git.io/typing-svg)
 
-Nayan.js : ``configure auto restart and auto accept pending messages.``</br>
-Nayan.json : ``configure bot name, bot prefix, bot operators and admins, appstate save``</br>
-Nayanstate.json : ``account cache data.``</br>Nayan/configs/Nayan.json : ``Set Your Bot Id Email Password``
 
-## BOX APPROVAL
+## My Github Stats:
 
-``box approval`` is set as default, you can disable it on ``Nayan.json`` by setting the ``approval`` value into ``false``</br>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MOHAMMAD-NAYAN&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="Mohammad Nayan GitHub status" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MOHAMMAD-NAYAN&theme=algolia" alt="MOHAMMAD-NAYAN" />
+</p>
 
-you can approve box by using ``approve`` command without using prefix, how to use? just type ``approve (box/remove) (uid/tid)``</br>
+---
 
-EXAMPLES : </br>
+### Top Usage Languages:
 
-view approved list 
-```txt 
-approve list
-```
-add box from approved list 
-```txt
-approve box 4834812366643016
-```
-remove box from approved list 
-```txt
-approve remove 4834812366643016
-```
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMMAD-NAYAN&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
 
-## Login System
+---
 
-If you want to login with an email password, go to Nayan/configs/Nayan.json and set your email password ``email``, ``password`` value
+### StarDev Ranking
 
-If You Use fbstate go to ``Nayanstate.json`` and past fbstate
+<a href="https://stardev.io/developers/MOHAMMAD-NAYAN"><img alt="Check out MOHAMMAD-NAYAN&apos;s profile on stardev.io" src="https://stardev.io/developers/MOHAMMAD-NAYAN/badge/languages/global.svg" /></a>
 
-if you run use ``email`` and ``password``, use Nayan.json(``saveState:false``); otherwise, use Nayan.json(``saveState:true``)
 
-## HOW TO GET 'NayanSTATE.JSON' DATA?
+---
+### Top Repositories
 
-to get ``Nayanstate.json`` data, please follow these steps :</br>
 
-step 1 : download fbstate exporter [here](https://drive.google.com/uc?id=1SFsFP_VhMyPg6JpqJtpqnjAr2kiKD7tl)</br>
+<a href="https://github.com/MOHAMMAD-NAYAN/Nayan-Bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MOHAMMAD-NAYAN&repo=Nayan-Bot&theme=algolia" />
+</a>
+<a href="https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MOHAMMAD-NAYAN&repo=nayan-media-downloader&theme=algolia" />
+</a>
 
-step 2 : download ``kiwi browser`` from the play store.</br>
+---
 
-step 3 : open kiwi browser and tap on the three dots at the top right corner.</br>
-
-step 4 : select ``extensions`` from the menu.</br>
-
-step 5 : tap on ``+ from (.zip/ .crx/ .user.js)`` and choose the file "fbstate_exporter-1.0.xpi (1).zip" that you downloaded.</br>
-
-step 6 : once the extension is added, go to ``www.facebook.com`` and log in to the account you want to use as a bot.</br>
-
-step 7 : after logging in, tap on the three dots again and scroll down to find the fbstate exporter.</br>
-
-step 8 : click on it and then click on ``copy fbstate``.</br>
-
-step 9 : paste the copied data into the ``Nayanstate.json`` file.</br>
-
-step 10 : finally, click on ``run`` to initiate the bot.</br>
+## All Bot
+<a href="https://github.com/MOHAMMAD-NAYAN/Nayan-Bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MOHAMMAD-NAYAN&repo=Nayan-Bot&theme=radical" />
+</a>
+<a href="https://github.com/MOHAMMAD-NAYAN/NAYAN-WHATSAPP-BOT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MOHAMMAD-NAYAN&repo=NAYAN-WHATSAPP-BOT&theme=radical" />
+</a>
+<a href="https://github.com/MOHAMMAD-NAYAN/NAYAN-TELEGRAM-BOT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MOHAMMAD-NAYAN&repo=NAYAN-TELEGRAM-BOT&theme=radical" />
+</a>
 
 
