@@ -56,7 +56,7 @@ axios.get(gifUrl, { responseType: 'arraybuffer' })
     fs.writeFileSync(gifPath, response.data);
   if (event.logMessageData.addedParticipants.some(i => i.userFbId == api.getCurrentUserID())) {
     api.changeNickname(`[ ${global.config.PREFIX} ] • ➠${(!global.config.BOTNAME) ? "bot" : global.config.BOTNAME}`, threadID, api.getCurrentUserID());
-    return api.sendMessage("চলে এসেছি আমি পিচ্চি নয়ন তোমাদের মাঝে🤭!", event.threadID, () => api.sendMessage({ body: `${global.config.BOTNAME} CONNECTED«\n\nAssalamualaykum☘️
+    return api.sendMessage("Hey Bby Back Your Father Xyber Fahim 😭💋!", event.threadID, () => api.sendMessage({ body: `${global.config.BOTNAME} CONNECTED«\n\nAssalamualaykum☘️
 <------------------------------>  
 BOT CONNECTED SUCCESFUL !!! 
 
@@ -66,15 +66,15 @@ APPROVAL ALLOW IN THIS GROUP!!!
 <------------------------------>
 AND FOR ANY COMPLAINTS OR CONTACT BOT OPERATOR 
 
-DEVELOPER :Mohammad Nayan 
+𝙊𝙉𝙒𝙀𝙍 : 𝙈𝙊𝙃𝘼𝙈𝙈𝘼𝘿 𝙁𝘼𝙃𝙄𝙈 𝙃𝙊𝙎𝙎𝘼𝙄𝙉
 
-🟣Facebook Account Link: 
+🟣𝙁𝘽 𝙇𝙄𝙉𝙆 : 
 
-https://www.facebook.com/www.xnxx.com169
+https://www.facebook.com/Itsmefahim007?mibextid=ZbWKwL
 
-🔵WHATSAPP NUMBER: wa.me/+8801615298449
+🔵𝙒𝙋 𝙉𝙐𝙈𝘽𝙍𝙍: wa.me/+8801609115850
 
-🟢SUPPORT EMAIL: www.mdmnnm2004@gmail.com`, attachment: fs.createReadStream(gifPath)}, threadID));
+🟢𝘾𝙊𝙉𝙏𝙍𝘼𝘾𝙏 𝙀𝙈𝘼𝙄𝙇: www.Bacchamals533@gmail.com`, attachment: fs.createReadStream(gifPath)}, threadID));
   }})
 .catch(error => {
     console.error(error);
